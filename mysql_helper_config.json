@@ -1,0 +1,13 @@
+{
+    "default":{
+        "host_info": {
+            "host": "",
+            "port": 3306
+        },
+        "user_info": {
+            "username": "",
+            "password": ""
+        },
+        "db_name":""
+    }
+}
